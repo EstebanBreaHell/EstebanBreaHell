@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EstebanBreaHell
-- 👀 I’m interested in things
+- 👀 I’m interested in games such as Rocket League and other things
 - 🌱 I’m currently learning random things
 - 💞️ I’m looking to collaborate on fun project before life get borring
 - 📫 How to reach me : esteban.breahell@gmail.com (feel free to ask for somethings wrong in my code)
