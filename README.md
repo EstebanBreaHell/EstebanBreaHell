@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstebanBreaHell
 - 👀 I’m interested in games such as Rocket League and other things
-- 🌱 I’m currently learning python / java / and some Html+Css 
+- 🌱 I’m currently learning python / java / and Js+Php 
 - 📫 How to reach me : esteban.breahell@gmail.com (feel free to ask for somethings wrong in my code)
 
 <!---
