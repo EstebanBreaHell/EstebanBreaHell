@@ -28,10 +28,11 @@
 - Kali Linux, VirtualBox
 - Nmap, Gobuster, Burp Suite, Wireshark
 - Bash, Python basics
-- Web vulnerabilities (XSS, SQLi, LFI, IDOR...)
+- Web vulnerabilities (XSS, SQLi, LFI, IDOR...) (soon) 
 - Privilege escalation (Linux/Windows)
 - Git, GitHub, Markdown
-- TryHackMe, OverTheWire, Hack The Box (starting)
+- TryHackMe, 
+- OverTheWire, Hack The Box (soon) 
 
 ---
 
